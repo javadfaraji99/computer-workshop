@@ -38,9 +38,9 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
 
 1. learning __Python__
 
-    + [Jadi Mirmirani (Persian)](http://www.yotube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+    + [Jadi Mirmirani (Persian)](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1Y_o_h2w85dzVdoX5t7SI0)
     
-    + [Corey Schafer (English)](https://www.youtube.com/playlist?list=PL-tKrPVkKKE1Y_o_h2w85dzVdoX5t7SI0)
+    + [Corey Schafer (English)]()
     
 2. learning __Latex__
     

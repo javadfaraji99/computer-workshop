@@ -23,9 +23,9 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
 
 + From Pariz to Paris
   
-    + Dr.Ebrahimi Parizi
-.
-+ 1984
+    +  Dr.Ebrahimi Parizi
+ .
++  1984
   
     + Gourge Orwell
     
@@ -42,9 +42,9 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
     
 2. learning __Latex__
     
-    + [Sourav Singhal(English)](https://youtu.be/Y-kXtWdjtmw)
-.
-3. related to __Science__  &  __Technology__
+    +  [Sourav Singhal(English)](https://youtu.be/Y-kXtWdjtmw)
+ .
+3.  related to __Science__  &  __Technology__
 
     + [Simply Explained (English)](https://youtu.be/WOvvyqJ-vwo)
     

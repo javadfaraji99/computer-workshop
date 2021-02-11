@@ -25,7 +25,6 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
   
     + Dr.Ebrshimi Parizi
   
-  
 + 1984
   
     + Gourge Orwell
@@ -33,7 +32,7 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
 
 # Useful Yotube tutorials
 
-  ## Name of the page and its language
+## Name of the page and its language
 
 1. learning __Python__
 
@@ -44,6 +43,7 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
 2. learning __Latex__
     
     + Sourav Singhal(English)
+    
     
 3. related to __Science__  &  __Technology__
 

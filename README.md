@@ -57,10 +57,10 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
 
 # Communication Ways
 
-tele : __@Javadyes1381__
+tele : [__@Javadyes1381__](@Javadyes1381)
 
-email : *faraji_javad81@yahoo.com*  &  *javadfaraji1381@gmail.com*
+email : [*faraji_javad81@yahoo.com*](faraji_javad81@yahoo.com)  &  [*javadfaraji1381@gmail.com*](faraji_javad81@yahoo.com)
 
-insta : faraj167
+insta : [faraj167](faraj167)
 
 

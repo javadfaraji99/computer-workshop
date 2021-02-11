@@ -25,8 +25,6 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
   
     + Dr.Ebrshimi Parizi
     
-  
-
 + 1984
   
     + Gourge Orwell
@@ -46,21 +44,19 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
     
     + [Sourav Singhal(English)](https://youtu.be/Y-kXtWdjtmw)
     
-    
 3. related to __Science__  &  __Technology__
 
     + [Simply Explained (English)](https://youtu.be/WOvvyqJ-vwo)
     
     
 # Beatiful Pictures
-![Sunset](20200531_204551.jpg)
 
 # Communication Ways
 
-tele : [__@Javadyes1381__](@Javadyes1381)
+tele : __@Javadyes1381__
 
-email : [*faraji_javad81@yahoo.com*](faraji_javad81@yahoo.com)  &  [*javadfaraji1381@gmail.com*](faraji_javad81@yahoo.com)
+email : *faraji_javad81@yahoo.com*  &  *javadfaraji1381@gmail.com*
 
-insta : [faraj167](faraj167)
+insta : faraj167
 
 

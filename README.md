@@ -40,7 +40,7 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
 
     + [Jadi Mirmirani (Persian)](http://www.yotube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
     
-    + [Corey Schafer (English)]
+    + [Corey Schafer (English)]()https://www.youtube.com/playlist?list=PL-tKrPVkKKE1Y_o_h2w85dzVdoX5t7SI0
     
 2. learning __Latex__
     

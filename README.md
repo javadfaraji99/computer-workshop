@@ -53,7 +53,7 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
     
     
 # Beatiful Pictures
-[Sunset](20200531_204551.jpg)
+![Sunset](20200531_204551.jpg)
 
 # Communication Ways
 

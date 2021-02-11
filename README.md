@@ -23,16 +23,38 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
 
 + From Pariz to Paris
   
-  + Dr.Ebrshimi Parizi
+    + Dr.Ebrshimi Parizi
+  
   
 + 1984
   
-  + Gourge Orwell
+    + Gourge Orwell
+
+# Useful Yotube tutorials
+
+## Name of the page and its language
+
+1. learning __Python__
+
+    + Jadi Mirmirani (Persian)
+    
+    + Corey Schafer (English)
+    
+2. learning __Latex__
+    
+    + Sourav Singhal(English)
+    
+3. related to __Science__  &  __Technology__
+
+    + Simply Explained (English)
+    
+    
+
 
 # Communication Ways
 tele : __@Javadyes1381__
 
-email : *faraji_javad81@yahoo.com* & *javadfaraji1381@gmail.com*
+email : *faraji_javad81@yahoo.com*  &  *javadfaraji1381@gmail.com*
 
 insta : faraj167
 

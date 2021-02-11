@@ -1,8 +1,8 @@
-# Introduction
+## Introduction
 ---
 Hello, I'm __Javad Faraji__.
 
-I'm computer **engineering student** in **IUST**.
+I'm a computer **engineering student** in **IUST**.
 
 ---
 # Interests
@@ -29,10 +29,11 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
 + 1984
   
     + Gourge Orwell
+    
 
 # Useful Yotube tutorials
 
-## Name of the page and its language
+  ## Name of the page and its language
 
 1. learning __Python__
 
@@ -52,6 +53,7 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
 
 
 # Communication Ways
+
 tele : __@Javadyes1381__
 
 email : *faraji_javad81@yahoo.com*  &  *javadfaraji1381@gmail.com*

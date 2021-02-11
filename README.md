@@ -49,7 +49,7 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
     + [Simply Explained (English)](https://youtu.be/WOvvyqJ-vwo)
     
     
-# Beatiful Pictures
+
 
 # Communication Ways
 

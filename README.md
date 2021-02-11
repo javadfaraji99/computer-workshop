@@ -1,8 +1,9 @@
 # Introduction
 ---
-Hello I'm __Javad Faraji__.
+Hello, I'm __Javad Faraji__.
 
 I'm computer **engineering student** in **IUST**.
+
 ---
 # Interests
 
@@ -21,9 +22,11 @@ I'm able to fix and repair damaged parts of an _electronic_ device.
 # introdusing book
 
 + From Pariz to Paris
+  
   + Dr.Ebrshimi Parizi
   
 + 1984
+  
   + Gourge Orwell
 
 # Communication Ways

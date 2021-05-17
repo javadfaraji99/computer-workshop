@@ -1,0 +1,256 @@
+
+                        WELCOME TO GEMBALL
+
+To receive instruction press 9 otherwise press any key..
+
+1
+
+TEAM LIST :
+
+        1.Real madrid           authority : defend        overall : 87%
+
+        2.Fc barcelona          authority : attack        overall : 83%
+
+        3.Juventus              authority : defend        overall : 84%
+
+        4.Bayern munich         authority : defend        overall : 92%
+
+        5.Paris saint-germain   authority : attack        overall : 88%
+
+        6.My own team
+
+Chose the first team (player 1)
+1
+Chose the second team (player 2)
+2
+Press entre to START
+4
+Team 2 starts
+ROUND 1
+player1 (REAL MADRID) got 10 gems
+player2 (FC BARCELONA) got 10 gems
+stage : 1
+FC BARCELONAturn                                10
+--------------------------------
+Press < P > to pass or < D > to dribble
+--------------------------------
+p
+REAL MADRIDturn
+                                10
+--------------------------------
+press < T > key to tackle or < L > to let ball go ...
+--------------------------------
+t
+stage : 2
+REAL MADRIDturn                                 8
+--------------------------------
+Press < P > to pass or < D > to dribble
+--------------------------------
+p
+FC BARCELONAturn
+                                9
+--------------------------------
+press < T > key to tackle or < L > to let ball go ...
+--------------------------------
+t
+stage : 3
+FC BARCELONAturn                                7
+--------------------------------
+Press < P > to pass or < D > to dribble
+--------------------------------
+p
+REAL MADRIDturn
+                                7
+--------------------------------
+press < T > key to tackle or < L > to let ball go ...
+--------------------------------
+t
+stage : 4
+REAL MADRIDturn                                 5
+--------------------------------
+Press < S > to shoot..
+--------------------------------
+s
+FC BARCELONAturn
+                                6
+--------------------------------
+press < S > key to save ...
+--------------------------------
+s
+
+
+                GOOOOOOOOOOOOOOOOOOOOOL
+
+REAL MADRID     1       -       0       FC BARCELONA
+ROUND 1 finished
+pree < C > to continue
+j
+ROUND 2
+player1 (REAL MADRID) got 12 gems
+player2 (FC BARCELONA) got 13 gems
+stage : 1
+FC BARCELONAturn                                13
+--------------------------------
+Press < P > to pass or < D > to dribble
+--------------------------------
+p
+REAL MADRIDturn
+                                12
+--------------------------------
+press < T > key to tackle or < L > to let ball go ...
+--------------------------------
+t
+stage : 2
+REAL MADRIDturn                                 10
+--------------------------------
+Press < P > to pass or < D > to dribble
+--------------------------------
+p
+FC BARCELONAturn
+                                12
+--------------------------------
+press < T > key to tackle or < L > to let ball go ...
+--------------------------------
+t
+stage : 3
+REAL MADRIDturn                                 9
+--------------------------------
+Press < P > to pass or < D > to dribble
+--------------------------------
+p
+FC BARCELONAturn
+                                10
+--------------------------------
+press < T > key to tackle or < L > to let ball go ...
+--------------------------------
+t
+stage : 4
+REAL MADRIDturn                                 8
+--------------------------------
+Press < S > to shoot..
+--------------------------------
+s
+FC BARCELONAturn
+                                8
+--------------------------------
+press < S > key to save ...
+--------------------------------
+s
+FC BARCELONA save the ball ..
+REAL MADRID     1       -       0       FC BARCELONA
+ROUND 2 finished
+pree < C > to continue
+j
+ROUND 3
+player1 (REAL MADRID) got 10 gems
+player2 (FC BARCELONA) got 10 gems
+stage : 1
+FC BARCELONAturn                                10
+--------------------------------
+Press < P > to pass or < D > to dribble
+--------------------------------
+l
+stage : 2
+FC BARCELONAturn                                10
+--------------------------------
+Press < P > to pass or < D > to dribble
+--------------------------------
+l
+stage : 3
+FC BARCELONAturn                                10
+--------------------------------
+Press < P > to pass or < D > to dribble
+--------------------------------
+p
+REAL MADRIDturn
+                                10
+--------------------------------
+press < T > key to tackle or < L > to let ball go ...
+--------------------------------
+t
+stage : 4
+REAL MADRIDturn                                 8
+--------------------------------
+Press < S > to shoot..
+--------------------------------
+s
+FC BARCELONAturn
+                                9
+--------------------------------
+press < S > key to save ...
+--------------------------------
+s
+
+
+                GOOOOOOOOOOOOOOOOOOOOOL
+
+REAL MADRID     2       -       0       FC BARCELONA
+ROUND 3 finished
+pree < C > to continue
+k
+ROUND 4
+player1 (REAL MADRID) got 10 gems
+player2 (FC BARCELONA) got 11 gems
+stage : 1
+FC BARCELONAturn                                11
+--------------------------------
+Press < P > to pass or < D > to dribble
+--------------------------------
+p
+REAL MADRIDturn
+                                10
+--------------------------------
+press < T > key to tackle or < L > to let ball go ...
+--------------------------------
+l
+stage : 2
+FC BARCELONAturn                                10
+--------------------------------
+Press < P > to pass or < D > to dribble
+--------------------------------
+p
+REAL MADRIDturn
+                                10
+--------------------------------
+press < T > key to tackle or < L > to let ball go ...
+--------------------------------
+l
+stage : 3
+FC BARCELONAturn                                9
+--------------------------------
+Press < P > to pass or < D > to dribble
+--------------------------------
+p
+REAL MADRIDturn
+                                10
+--------------------------------
+press < T > key to tackle or < L > to let ball go ...
+--------------------------------
+l
+stage : 4
+FC BARCELONAturn                                8
+--------------------------------
+Press < S > to shoot..
+--------------------------------
+s
+REAL MADRIDturn
+                                10
+--------------------------------
+press < S > key to save ...
+--------------------------------
+s
+REAL MADRID save the ball ..
+REAL MADRID     2       -       0       FC BARCELONA
+ROUND 4 finished
+pree < C > to continue
+h
+REAL MADRID won
+-----
+-----
+-----
+k
+------
+
+--------------------------------
+Process exited after 386.1 seconds with return value 0
+Press any key to continue . . .
